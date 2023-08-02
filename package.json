@@ -1,0 +1,18 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "Todo list using Node and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github"
+  },
+  "author": "Sergitxu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
